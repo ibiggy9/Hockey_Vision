@@ -1,0 +1,15 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.env
+.venv
+ENV/
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebooks
+.ipynb_checkpoints
